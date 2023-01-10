@@ -1,0 +1,21 @@
+html {
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  font-family: var(--poppins);
+  background-color: #111;
+  position: relative;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  color: var(--pwhite);
+}
+
+/* FIREWORKS */
+
+canvas {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
